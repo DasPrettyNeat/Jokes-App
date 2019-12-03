@@ -14,10 +14,10 @@ $client_secret = 'iPW5F8PH2m9cMzeBd_eyepVj';
 $redirect_uri = 'http://localhost/Jokes/google_login.php';
 
 // MySql details
-$db_username = "root"; // Database username
-$db_password = ""; // Database password
-$host_name = "localhost"; // MySql hostname
-$db_name = "test"; // Database name
+$db_username = "w2to1w58rwsyqhft"; // Database username
+$db_password = "bfksmbw8jie9aqx4"; // Database password
+$host_name = "hcm4e9frmbwfez47.cbetxkdyhwsb.us-east-1.rds.amazonaws.com"; // MySql hostname
+$db_name = "zcrtk32kyub17g7g"; // Database name
 
 // create a new connection to the google login service
 $client = new Google_Client();
